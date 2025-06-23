@@ -1,1 +1,1 @@
-Document.getElementById('here').innerHTML = `안녕`
+document.getElementById('here').innerHTML = `안녕`
